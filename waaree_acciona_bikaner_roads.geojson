@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "waaree_acciona_bikaner_roads",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 73.137983962969756, 28.154713552525926 ], [ 73.138051806226002, 28.151063585339738 ], [ 73.137834707806007, 28.150629388499745 ], [ 73.13784827645722, 28.147372912199799 ], [ 73.13784827645722, 28.147372912199799 ], [ 73.13784827645722, 28.147372912199799 ] ] ] } }
+]
+}
