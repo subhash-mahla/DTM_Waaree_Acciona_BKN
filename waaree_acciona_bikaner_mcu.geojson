@@ -1,36 +1,505 @@
 {
-"type": "FeatureCollection",
-"name": "waaree_acciona_bikaner_mcu",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "MCU No": "MCU-1", "Node Counts": 250, "X": 319653.02, "Y": 3117295.86, "tkr_master": 1 }, "geometry": { "type": "Point", "coordinates": [ 73.163051763473746, 28.169045157728405 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-2", "Node Counts": 207, "X": 319554.44, "Y": 3117189.87, "tkr_master": 2 }, "geometry": { "type": "Point", "coordinates": [ 73.162052206165001, 28.168714987214656 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-3", "Node Counts": 250, "X": 319220.8, "Y": 3117498.58, "tkr_master": 3 }, "geometry": { "type": "Point", "coordinates": [ 73.158791206981263, 28.17091763160089 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-4", "Node Counts": 250, "X": 318777.21, "Y": 3117087.86, "tkr_master": 4 }, "geometry": { "type": "Point", "coordinates": [ 73.154327120720012, 28.167091271948411 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-5", "Node Counts": 250, "X": 318228.79, "Y": 3117085.89, "tkr_master": 5 }, "geometry": { "type": "Point", "coordinates": [ 73.148565375532399, 28.166994620210062 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-6", "Node Counts": 250, "X": 318700.53, "Y": 3116603.99, "tkr_master": 6 }, "geometry": { "type": "Point", "coordinates": [ 73.15354554314672, 28.162837502790214 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-7", "Node Counts": 250, "X": 318203.97, "Y": 3117085.71, "tkr_master": 7 }, "geometry": { "type": "Point", "coordinates": [ 73.148317127064388, 28.166992819858557 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-8", "Node Counts": 250, "X": 318149.21, "Y": 3116609.19, "tkr_master": 8 }, "geometry": { "type": "Point", "coordinates": [ 73.148031266540059, 28.16288951294467 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-9", "Node Counts": 250, "X": 317676.23, "Y": 3116680.7, "tkr_master": 9 }, "geometry": { "type": "Point", "coordinates": [ 73.143155597857572, 28.163477487832164 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-10", "Node Counts": 250, "X": 317710.22, "Y": 3116200.73, "tkr_master": 10 }, "geometry": { "type": "Point", "coordinates": [ 73.143476034147085, 28.159122721572558 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-11", "Node Counts": 250, "X": 318262.3426, "Y": 3115817.704, "tkr_master": 11 }, "geometry": { "type": "Point", "coordinates": [ 73.14872957741504, 28.155937228085655 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-12", "Node Counts": 250, "X": 318261.04, "Y": 3115789.01, "tkr_master": 12 }, "geometry": { "type": "Point", "coordinates": [ 73.148716548871349, 28.15565023205259 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-13", "Node Counts": 168, "X": 318333.0126, "Y": 3115273.688, "tkr_master": 13 }, "geometry": { "type": "Point", "coordinates": [ 73.149925852288646, 28.150656620028894 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-14", "Node Counts": 108, "X": 318301.2218, "Y": 3115198.572, "tkr_master": 14 }, "geometry": { "type": "Point", "coordinates": [ 73.149607882208201, 28.149905313343872 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-15", "Node Counts": 247, "X": 317677.3078, "Y": 3115361.344, "tkr_master": 15 }, "geometry": { "type": "Point", "coordinates": [ 73.143244045362025, 28.151398372963897 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-16", "Node Counts": 144, "X": 317717.3733, "Y": 3116184.223, "tkr_master": 16 }, "geometry": { "type": "Point", "coordinates": [ 73.143547581115897, 28.158957619338022 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-17", "Node Counts": 250, "X": 317711.1374, "Y": 3115858.304, "tkr_master": 17 }, "geometry": { "type": "Point", "coordinates": [ 73.143571703162564, 28.155788585457199 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-18", "Node Counts": 250, "X": 317179.5546, "Y": 3115704.347, "tkr_master": 18 }, "geometry": { "type": "Point", "coordinates": [ 73.13810608083098, 28.154398081384365 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-19", "Node Counts": 167, "X": 317170.9543, "Y": 3115312.236, "tkr_master": 19 }, "geometry": { "type": "Point", "coordinates": [ 73.138118110445447, 28.150827484526122 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-20", "Node Counts": 236, "X": 317115.4638, "Y": 3115104.921, "tkr_master": 20 }, "geometry": { "type": "Point", "coordinates": [ 73.137535160984328, 28.148861537722798 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-21", "Node Counts": 250, "X": 316234.2222, "Y": 3115054.626, "tkr_master": 21 }, "geometry": { "type": "Point", "coordinates": [ 73.128588115193864, 28.148401208665572 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-22", "Node Counts": 211, "X": 315726.7675, "Y": 3114994.407, "tkr_master": 22 }, "geometry": { "type": "Point", "coordinates": [ 73.123368874994739, 28.147702650367759 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-23", "Node Counts": 169, "X": 315670.0415, "Y": 3115041.829, "tkr_master": 23 }, "geometry": { "type": "Point", "coordinates": [ 73.122801504221343, 28.148176962972489 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-24", "Node Counts": 250, "X": 316046.5271, "Y": 3114395.586, "tkr_master": 24 }, "geometry": { "type": "Point", "coordinates": [ 73.126631995891032, 28.142334513928954 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-25", "Node Counts": 230, "X": 316568.4264, "Y": 3114462.95, "tkr_master": 25 }, "geometry": { "type": "Point", "coordinates": [ 73.132063476732114, 28.143066216011171 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-26", "Node Counts": 219, "X": 316639.9416, "Y": 3114510.598, "tkr_master": 26 }, "geometry": { "type": "Point", "coordinates": [ 73.132778768385563, 28.143542789057232 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-27", "Node Counts": 250, "X": 317350.3233, "Y": 3114593.261, "tkr_master": 27 }, "geometry": { "type": "Point", "coordinates": [ 73.139995609744261, 28.144344684484498 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-28", "Node Counts": 186, "X": 317732.4794, "Y": 3114354.476, "tkr_master": 28 }, "geometry": { "type": "Point", "coordinates": [ 73.143879813377012, 28.142239980371258 ] } },
-{ "type": "Feature", "properties": { "MCU No": "MCU-29", "Node Counts": 212, "X": 317739.6592, "Y": 3114513.455, "tkr_master": 29 }, "geometry": { "type": "Point", "coordinates": [ 73.143951625397591, 28.143830080822273 ] } }
-]
+    "type": "FeatureCollection",
+    "name": "waaree_acciona_bikaner_mcu",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-1",
+                "Node Counts": 250,
+                "X": 319653.02,
+                "Y": 3117295.86,
+                "tkr_master": 1
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.163051763473746,
+                    28.169045157728405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-2",
+                "Node Counts": 207,
+                "X": 319554.44,
+                "Y": 3117189.87,
+                "tkr_master": 2
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.162052206165001,
+                    28.168714987214656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-3",
+                "Node Counts": 250,
+                "X": 319220.8,
+                "Y": 3117498.58,
+                "tkr_master": 3
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.158791206981263,
+                    28.17091763160089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-4",
+                "Node Counts": 250,
+                "X": 318777.21,
+                "Y": 3117087.86,
+                "tkr_master": 4
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.154327120720012,
+                    28.167091271948411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-5",
+                "Node Counts": 250,
+                "X": 318228.79,
+                "Y": 3117085.89,
+                "tkr_master": 5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.148565375532399,
+                    28.166994620210062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-6",
+                "Node Counts": 250,
+                "X": 318700.53,
+                "Y": 3116603.99,
+                "tkr_master": 6
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.15354554314672,
+                    28.162837502790214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-7",
+                "Node Counts": 250,
+                "X": 318203.97,
+                "Y": 3117085.71,
+                "tkr_master": 7
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.148317127064388,
+                    28.166992819858557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-8",
+                "Node Counts": 250,
+                "X": 318149.21,
+                "Y": 3116609.19,
+                "tkr_master": 8
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.148031266540059,
+                    28.16288951294467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-9",
+                "Node Counts": 250,
+                "X": 317676.23,
+                "Y": 3116680.7,
+                "tkr_master": 9
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143155597857572,
+                    28.163477487832164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-10",
+                "Node Counts": 250,
+                "X": 317710.22,
+                "Y": 3116200.73,
+                "tkr_master": 10
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143476034147085,
+                    28.159122721572558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-11",
+                "Node Counts": 250,
+                "X": 318262.3426,
+                "Y": 3115817.704,
+                "tkr_master": 11
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.14872957741504,
+                    28.155937228085655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-12",
+                "Node Counts": 250,
+                "X": 318261.04,
+                "Y": 3115789.01,
+                "tkr_master": 12
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.148716548871349,
+                    28.15565023205259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-13",
+                "Node Counts": 168,
+                "X": 318333.0126,
+                "Y": 3115273.688,
+                "tkr_master": 13
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.149925852288646,
+                    28.150656620028894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-14",
+                "Node Counts": 108,
+                "X": 318301.2218,
+                "Y": 3115198.572,
+                "tkr_master": 14
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.149607882208201,
+                    28.149905313343872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-15",
+                "Node Counts": 247,
+                "X": 317677.3078,
+                "Y": 3115361.344,
+                "tkr_master": 15
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143244045362025,
+                    28.151398372963897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-16",
+                "Node Counts": 144,
+                "X": 317717.3733,
+                "Y": 3116184.223,
+                "tkr_master": 16
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143547581115897,
+                    28.158957619338022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-17",
+                "Node Counts": 250,
+                "X": 317711.1374,
+                "Y": 3115858.304,
+                "tkr_master": 17
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143571703162564,
+                    28.155788585457199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-18",
+                "Node Counts": 250,
+                "X": 317179.5546,
+                "Y": 3115704.347,
+                "tkr_master": 18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.13810608083098,
+                    28.154398081384365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-19",
+                "Node Counts": 167,
+                "X": 317170.9543,
+                "Y": 3115312.236,
+                "tkr_master": 19
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.138118110445447,
+                    28.150827484526122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-20",
+                "Node Counts": 236,
+                "X": 317115.4638,
+                "Y": 3115104.921,
+                "tkr_master": 20
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.137535160984328,
+                    28.148861537722798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-21",
+                "Node Counts": 250,
+                "X": 316234.2222,
+                "Y": 3115054.626,
+                "tkr_master": 21
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.128588115193864,
+                    28.148401208665572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-22",
+                "Node Counts": 211,
+                "X": 315726.7675,
+                "Y": 3114994.407,
+                "tkr_master": 22
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.123368874994739,
+                    28.147702650367759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-23",
+                "Node Counts": 169,
+                "X": 315670.0415,
+                "Y": 3115041.829,
+                "tkr_master": 23
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.122801504221343,
+                    28.148176962972489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-24",
+                "Node Counts": 250,
+                "X": 316046.5271,
+                "Y": 3114395.586,
+                "tkr_master": 24
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.126631995891032,
+                    28.142334513928954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-25",
+                "Node Counts": 230,
+                "X": 316568.4264,
+                "Y": 3114462.95,
+                "tkr_master": 25
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.132063476732114,
+                    28.143066216011171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-26",
+                "Node Counts": 219,
+                "X": 316639.9416,
+                "Y": 3114510.598,
+                "tkr_master": 26
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.132778768385563,
+                    28.143542789057232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-27",
+                "Node Counts": 250,
+                "X": 317350.3233,
+                "Y": 3114593.261,
+                "tkr_master": 27
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.139995609744261,
+                    28.144344684484498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-28",
+                "Node Counts": 186,
+                "X": 317732.4794,
+                "Y": 3114354.476,
+                "tkr_master": 28
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143879813377012,
+                    28.142239980371258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "MCU No": "MCU-29",
+                "Node Counts": 212,
+                "X": 317739.6592,
+                "Y": 3114513.455,
+                "tkr_master": 29
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.143951625397591,
+                    28.143830080822273
+                ]
+            }
+        }
+    ]
 }
